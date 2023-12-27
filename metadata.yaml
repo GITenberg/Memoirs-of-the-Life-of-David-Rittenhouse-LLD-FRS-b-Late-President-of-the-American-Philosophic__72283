@@ -1,5 +1,8 @@
 _repo: Memoirs-of-the-Life-of-David-Rittenhouse-LLD-FRS-b-Late-President-of-the-American-Philosophic__72283
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72283-h/images/cover.jpg
 creator:
   author:
     agent_name: Barton, William E. (William Eleazar)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '6665'
     url: http://www.gutenberg.org/2009/agents/6665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72283#Memoirs-of-the-Life-of-David-Rittenhouse-LLD-FRS-b-Late-President-of-the-American-Philosophic_
 gutenberg_issued: '2023-12-02'
 identifiers:
   gutenberg: '72283'
